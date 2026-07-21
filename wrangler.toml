@@ -1,3 +1,2 @@
-name = "deploy-panel"
-compatibility_date = "2026-01-20"
-pages_build_output_dir = "public"
+# wrangler.toml
+name = 'cfnew-deployer'
